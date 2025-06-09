@@ -1,16 +1,3 @@
-<p align="center">
-  <img src="frontend/public/logo.webp" width="100" />
-</p>
-<h1 align="center">Spend Smart - Effortless Financial Management</h1>
-
-<img src="frontend/src/assets/dashboard.webp" />
-
-<h2 align="center">
-  <a href="https://spend-smart-dev.vercel.app">Explore the Project Live!</a>
-</h2>
-
-<hr/>
-
 Spend Smart is your go-to platform for effortless financial management. Track expenses, manage income, and stay on top of your finances with ease. Easily add transactions, and navigate your dashboard with ease. Take control of your finances with Spend Smart.
 
 <hr/>
