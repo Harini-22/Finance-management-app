@@ -50,7 +50,7 @@ Follow these steps to set up Spend Smart on your local machine:
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/SaxenaShourya/spend-smart.git
+git clone
 ```
 
 ### Make the .env file in backend directory
@@ -106,17 +106,5 @@ During the development of Spend Smart, I gained valuable experience in several k
 - **Agile Development** 🔄: I practiced Agile development methodologies throughout the project, including iterative development, continuous integration, and frequent testing.
 - **UI/UX Design** 🎨: I focused on creating an intuitive and user-friendly interface for Spend Smart, prioritizing usability and accessibility to enhance the overall user experience.
 
-By working on Spend Smart, I not only enhanced my technical skills but also gained valuable insights into the process of developing a real-world web application from concept to completion.
 
 <hr/>
-
-## License:
-
-- Spend Smart is licensed under the [MIT License](LICENSE).
-
-<hr/>
-
-## For more Content
-
-- For feedback and support, email us at saxenashourya000@gmail.com 📧
-- Follow me on [Linkedin](https://www.linkedin.com/in/saxena-shourya) for updates. 🔗
